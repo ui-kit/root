@@ -1,0 +1,15 @@
+{
+  "name": "ui-kit-root",
+  "version": "1.0.0",
+  "description": "assign and resolve component variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
+  }
+}
